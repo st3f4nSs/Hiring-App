@@ -1,0 +1,80 @@
+{
+	"jobs":[
+		{
+			"job_name": "Software Developer Engineer",
+			"company_name": "Google",
+			"is_open": true,
+			"grad_year": {
+				"lower_bound": 2002,
+				"upper_bound": 2020
+			},
+			"exp_years": {
+				"lower_bound": 2,
+				"upper_bound": 6
+			},
+			"academic_mean": {
+				"lower_bound": 8,
+				"upper_bound": null
+			},
+			"noPositions": 1,
+			"job_salary": 10000
+		},
+		{
+			"job_name": "Software Developer Engineer Intern",
+			"company_name": "Google",
+			"is_open": true,
+			"grad_year": {
+				"lower_bound": null,
+				"upper_bound": null
+			},
+			"exp_years": {
+				"lower_bound": 0,
+				"upper_bound": 2
+			},
+			"academic_mean": {
+				"lower_bound": 9,
+				"upper_bound": null
+			},
+			"noPositions": 1,
+			"job_salary": 5000
+		},
+		{
+			"job_name": "Software Developer Engineer",
+			"company_name": "Amazon",
+			"is_open": true,
+			"grad_year": {
+				"lower_bound": 2014,
+				"upper_bound": 2020
+			},
+			"exp_years": {
+				"lower_bound": 1,
+				"upper_bound": null
+			},
+			"academic_mean": {
+				"lower_bound": 9,
+				"upper_bound": null
+			},
+			"noPositions": 1,
+			"job_salary": 12000
+		},
+		{
+			"job_name": "Software Developer Engineer Intern",
+			"company_name": "Amazon",
+			"is_open": true,
+			"grad_year": {
+				"lower_bound": null,
+				"upper_bound": null
+			},
+			"exp_years": {
+				"lower_bound": 0,
+				"upper_bound": 2
+			},
+			"academic_mean": {
+				"lower_bound": 8.15,
+				"upper_bound": null
+			},
+			"noPositions": 1,
+			"job_salary": 6000
+		}
+	]
+}
